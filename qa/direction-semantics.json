@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "reviewed_by": "parent_labeled_normal_size_review",
+  "directions": [
+    {"direction":"000","expected":"up","observed":"head and mouth plane pitched up; eyes high","verdict":"pass","reason":"unmistakable up cardinal"},
+    {"direction":"022.5","expected":"up-right","observed":"strong up with subtle right turn","verdict":"warning","reason":"horizontal cue subtle but ordered step from 000 toward 045"},
+    {"direction":"045","expected":"up-right","observed":"head up and face right","verdict":"pass","reason":"both axes visible"},
+    {"direction":"067.5","expected":"up-right","observed":"clear right turn with raised face","verdict":"pass","reason":"both axes visible"},
+    {"direction":"090","expected":"right","observed":"full screen-right profile","verdict":"pass","reason":"unmistakable right cardinal"},
+    {"direction":"112.5","expected":"down-right","observed":"right profile with small lowering","verdict":"warning","reason":"vertical cue subtle but loop advances toward 135"},
+    {"direction":"135","expected":"down-right","observed":"head and pupils down-right","verdict":"pass","reason":"both axes visible"},
+    {"direction":"157.5","expected":"down-right","observed":"deep down-right bow","verdict":"pass","reason":"both axes visible"},
+    {"direction":"180","expected":"down","observed":"front-facing head bowed toward belly","verdict":"pass","reason":"unmistakable down cardinal"},
+    {"direction":"202.5","expected":"down-left","observed":"downward gaze with early left turn","verdict":"warning","reason":"horizontal cue subtle but ordered transition toward 225"},
+    {"direction":"225","expected":"down-left","observed":"eyes and muzzle down-left","verdict":"pass","reason":"both axes visible"},
+    {"direction":"247.5","expected":"down-left","observed":"strong left profile with slight down pitch","verdict":"warning","reason":"vertical cue subtle but remains in intended quadrant"},
+    {"direction":"270","expected":"left","observed":"full screen-left profile","verdict":"pass","reason":"unmistakable left cardinal"},
+    {"direction":"292.5","expected":"up-left","observed":"left profile begins raising eyes and chin","verdict":"pass","reason":"both axes visible"},
+    {"direction":"315","expected":"up-left","observed":"three-quarter left with raised head","verdict":"pass","reason":"both axes visible"},
+    {"direction":"337.5","expected":"up-left","observed":"near-front upward gaze with slight left bias","verdict":"warning","reason":"horizontal cue subtle but one-step boundary to 000 is coherent"}
+  ]
+}
